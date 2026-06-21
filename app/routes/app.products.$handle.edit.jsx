@@ -1316,7 +1316,7 @@ const delBtn = {
 };
 
 const th = { padding: 10, borderBottom: "1px solid #ddd" };
-const td = { padding: 10, borderBottom: "1px solid #eee", verticalAlign: "top" };
+const td = { padding: 10, borderBottom: "1px solid #eee", verticalAlign: "middle" };
 
 const input = { width: "100%", padding: 8, border: "1px solid #ccc", borderRadius: 4 };
 const errorText = { color: "#d00", fontSize: 12, marginTop: 4 };
