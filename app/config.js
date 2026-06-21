@@ -1,0 +1,1 @@
+export const APP_HANDLE = "codem-app"; // replace with your actual app handle

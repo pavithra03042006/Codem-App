@@ -1,0 +1,1 @@
+export const APP_HANDLE = "codem-app-2"; // e.g. "my-product-editor"

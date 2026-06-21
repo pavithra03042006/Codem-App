@@ -1,0 +1,41 @@
+.page{
+  padding:20px;
+  font-family:Arial,sans-serif;
+}
+
+.tabs{
+  display:flex;
+  gap:10px;
+  margin-bottom:20px;
+}
+
+.tab{
+  padding:10px 20px;
+  cursor:pointer;
+}
+
+.active{
+  background:#000;
+  color:white;
+}
+
+table{
+  width:100%;
+  border-collapse:collapse;
+}
+
+th,
+td{
+  border:1px solid #ccc;
+  padding:10px;
+}
+
+input{
+  width:100%;
+  padding:6px;
+}
+
+.save-btn{
+  margin-top:20px;
+  padding:10px 20px;
+}
